@@ -42,12 +42,10 @@ export default function About() {
             md={6}
           >
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Accusantium, id alias! Dolorum praesentium nihil expedita
-              voluptate explicabo necessitatibus illum quia! Lorem ipsum dolor
-              sit amet consectetur adipisicing elit. Accusantium, id alias!
-              Dolorum praesentium nihil expedita voluptate explicabo
-              necessitatibus illum quia!
+             My full name is Abdurakhmanov Obidzhon. I am 18 years old. I'm Uzbek. I have
+            been studying programming since 2021. I get to know other
+            people quickly. I have worked on many large and realistic projects, but I cannot tell you
+            this because most of them are personal. If I don't know what you're asking, I'm definitely learning and I enjoy working on it myself
             </p>
             <Divider sx={{ border: "1px solid #394951", width: "60%" }} />
             <Box
