@@ -35,9 +35,7 @@ export default function Home() {
                 </Typography>
               </Box>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Accusantium, id alias! Dolorum praesentium nihil expedita voluptate
-                explicabo necessitatibus illum quia!
+                Hello! I am very glad that you are visiting my web page and in this site you will get complete information about me. Welcome...
               </p>
 
               {/* Buttons */}
